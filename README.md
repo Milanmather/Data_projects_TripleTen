@@ -1,9 +1,14 @@
 # Data_projects_TripleTen
-TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+## 📂 TripleTen Data Science  Projects
 
-Project number	Title	Description
-1	Norbu stress control	The project task was to analyze user data and find possible causes for the company’s low CR and retention rate.
-2	Instacart	The project task was to prepare a report that gives insight into the shopping habits of Instacart customers
-3	A/A/B Test Analysis	The project task was to study the sales funnel and analyze the results of an A/B test for a food startup.
-4	Machine Learning Customer Interaction Strategies	The project task was to help a chain of fitness clubs develop a customer retention strategy.
+Below is a collection of the core projects I completed during the TripleTen Data Analysis program. Each project demonstrates real-world analytical skills, business thinking, and data-driven problem solving.
+
+| # | Project Title | Description | Skills & Tools |
+|---|--------------|-------------|----------------|
+| 1 | **Norbu Stress Control** | Analyzed product usage data to identify factors affecting low conversion rate (CR) and user retention for a mental wellness app. Delivered insights to improve funnel performance. | Python, pandas, matplotlib, cohort analysis, product metrics |
+| 2 | **Instacart Customer Behavior Analysis** | Prepared a detailed analytical report on customer shopping habits to help optimize marketing strategy and personalized recommendations. | SQL, Python, seaborn, data visualization, segmentation |
+| 3 | **A/A/B Test Analysis** | Studied complete sales funnel and evaluated A/B test results for a food startup to determine whether UI changes improved user behavior and conversion. | Statistical testing, probability, A/B test evaluation, matplotlib |
+| 4 | **Machine Learning: Customer Interaction Strategy** | Built ML models to help a chain of fitness clubs predict customer churn and develop effective retention strategies. | Scikit-learn, Logistic Regression, Random Forest, feature engineering |
+
+---
+
