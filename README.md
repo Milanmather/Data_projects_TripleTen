@@ -1,7 +1,7 @@
 # Data_projects_TripleTen
 ## 📂 TripleTen Data Science  Projects
 
-Below is a collection of the core projects I completed during the TripleTen Data Analysis program. Each project demonstrates real-world analytical skills, business thinking, and data-driven problem solving.
+Below is a collection of the core projects I completed during the TripleTen Data Science program. Each project demonstrates real-world analytical skills, business thinking, and data-driven problem solving.
 
 | # | Project Title | Description | 
 |---|--------------|-------------|
